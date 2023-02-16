@@ -1,0 +1,1 @@
+![](bandwidth-compromise.png)
